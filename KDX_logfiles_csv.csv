@@ -1,0 +1,447 @@
+07:50:48:745,MESSAGE,"NEWRUN Series Application Start : Model = NEWRUN13, Language 한국어"
+07:50:49:510,EVENT,Load today's Log file button clicked.
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0097, MSG : (MB1011)DL LX 서보레디 Off(No.01)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0101, MSG : (MB1021)DL LY 서보레디 Off(No.02)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0105, MSG : (MB1031)DL LZ 서보레디 Off(No.03)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0109, MSG : (MB1111)DL 인버터레디 Off"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0161, MSG : (MB1041)DV VX 서보레디Off(No.04)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0165, MSG : (MB1051)DV VY 서보레디Off(No.05)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0169, MSG : (MB1061)DV VZ 서보레디Off(No.06"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0173, MSG : (MB1121)DV InverterReadyOff"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0225, MSG : (MB1071)DR RX 서보레디Off(No.07)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0229, MSG : (MB1081)DR RY 서보레디Off(No.08)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0233, MSG : (MB1091)DR RZ 서보레디Off(No.09)"
+07:50:50:024,ALARM,"Alarm Occured - CODE : AL0237, MSG : (MB1131)DR InverterReadyOff"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0097, MSG : (MB1011)DL LX 서보레디 Off(No.01)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0101, MSG : (MB1021)DL LY 서보레디 Off(No.02)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0105, MSG : (MB1031)DL LZ 서보레디 Off(No.03)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0109, MSG : (MB1111)DL 인버터레디 Off"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0161, MSG : (MB1041)DV VX 서보레디Off(No.04)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0165, MSG : (MB1051)DV VY 서보레디Off(No.05)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0169, MSG : (MB1061)DV VZ 서보레디Off(No.06"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0173, MSG : (MB1121)DV InverterReadyOff"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0225, MSG : (MB1071)DR RX 서보레디Off(No.07)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0229, MSG : (MB1081)DR RY 서보레디Off(No.08)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0233, MSG : (MB1091)DR RZ 서보레디Off(No.09)"
+07:50:54:080,ALARM,"Alarm Cleared - CODE : AL0237, MSG : (MB1131)DR InverterReadyOff"
+07:51:22:691,EVENT,환경설정 menu button clicked.
+08:16:32:681,EVENT, menu button clicked.
+08:17:07:346,EVENT,레시피 menu button clicked.
+08:17:17:298,EVENT,Load file is RECIPE NAME
+08:17:19:592,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 200 100\경산 200 1+2.txt
+08:17:22:758,EVENT,운전화면 menu button clicked.
+08:17:26:690,EVENT,Open recipe is D:\NEWRUN\recipe\경산 200 1+2.rcp for Working
+08:17:26:690,MESSAGE,Transfer Start Hole Item datas...
+08:17:27:002,MESSAGE,Transfer End Hole Item datas...[Hole count : 44]
+08:20:59:505,ALARM,"Alarm Occured - CODE : AL0098, MSG : (MB1012)DL LX 서보알람(No.01)"
+08:20:59:505,ALARM,"Alarm Occured - CODE : AL0150, MSG : (MB4202)DL LX +OT"
+08:21:02:672,ALARM,"Alarm Cleared - CODE : AL0098, MSG : (MB1012)DL LX 서보알람(No.01)"
+08:21:02:672,ALARM,"Alarm Cleared - CODE : AL0150, MSG : (MB4202)DL LX +OT"
+08:21:46:024,ALARM,"Alarm Occured - CODE : AL0162, MSG : (MB1042)DV VX 서보알람(No.04)"
+08:21:46:024,ALARM,"Alarm Occured - CODE : AL0214, MSG : (MB4302)DV VX +OT"
+08:21:48:318,ALARM,"Alarm Cleared - CODE : AL0162, MSG : (MB1042)DV VX 서보알람(No.04)"
+08:21:48:318,ALARM,"Alarm Cleared - CODE : AL0214, MSG : (MB4302)DV VX +OT"
+08:34:18:180,EVENT,레시피 menu button clicked.
+08:34:21:908,EVENT,Load file is RECIPE NAME
+08:34:24:732,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 200 100\경산 200 3.txt
+08:34:25:481,EVENT,운전화면 menu button clicked.
+08:34:29:162,EVENT,Open recipe is D:\NEWRUN\recipe\경산 200 3.rcp for Working
+08:34:29:162,MESSAGE,Transfer Start Hole Item datas...
+08:34:29:459,MESSAGE,Transfer End Hole Item datas...[Hole count : 32]
+08:43:05:601,EVENT,레시피 menu button clicked.
+08:43:08:986,EVENT,Load file is RECIPE NAME
+08:43:10:593,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 200 100\경산 200 4.txt
+08:43:11:888,EVENT,운전화면 menu button clicked.
+08:43:16:100,EVENT,Open recipe is D:\NEWRUN\recipe\경산 200 4.rcp for Working
+08:43:16:115,MESSAGE,Transfer Start Hole Item datas...
+08:43:16:396,MESSAGE,Transfer End Hole Item datas...[Hole count : 38]
+09:08:09:662,EVENT,Changed Apply All Marking is TRUE from FALSE
+09:08:09:662,MESSAGE,Transfer Start Hole Item datas...
+09:08:10:161,MESSAGE,Transfer End Hole Item datas...[Hole count : 38]
+09:08:13:234,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:08:13:234,MESSAGE,Transfer Start Hole Item datas...
+09:08:13:531,MESSAGE,Transfer End Hole Item datas...[Hole count : 38]
+09:08:23:343,EVENT,Changed Apply All Marking is TRUE from FALSE
+09:08:23:343,MESSAGE,Transfer Start Hole Item datas...
+09:08:23:780,MESSAGE,Transfer End Hole Item datas...[Hole count : 38]
+09:08:31:471,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:08:31:471,MESSAGE,Transfer Start Hole Item datas...
+09:08:31:752,MESSAGE,Transfer End Hole Item datas...[Hole count : 38]
+09:11:03:166,EVENT,레시피 menu button clicked.
+09:11:12:978,EVENT,Load file is RECIPE NAME
+09:11:15:115,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산 250 4.txt
+09:11:17:112,EVENT,운전화면 menu button clicked.
+09:11:21:917,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 4.rcp for Working
+09:11:21:917,MESSAGE,Transfer Start Hole Item datas...
+09:11:22:198,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:11:27:704,EVENT,Changed Apply All Marking is TRUE from FALSE
+09:11:27:704,MESSAGE,Transfer Start Hole Item datas...
+09:11:28:016,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:16:58:144,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:16:58:144,MESSAGE,Transfer Start Hole Item datas...
+09:16:58:425,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:17:04:618,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:17:04:618,MESSAGE,Transfer Start Hole Item datas...
+09:17:04:899,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:17:08:815,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:17:08:815,MESSAGE,Transfer Start Hole Item datas...
+09:17:09:283,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:17:21:529,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:17:21:529,MESSAGE,Transfer Start Hole Item datas...
+09:17:21:841,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:17:27:347,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:17:27:363,MESSAGE,Transfer Start Hole Item datas...
+09:17:27:893,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:24:18:237,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:24:18:237,MESSAGE,Transfer Start Hole Item datas...
+09:24:18:549,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:24:19:734,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:24:19:734,MESSAGE,Transfer Start Hole Item datas...
+09:24:20:124,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:25:52:118,EVENT,레시피 menu button clicked.
+09:25:57:905,EVENT,Load file is RECIPE NAME
+09:26:09:168,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산 250 2.txt
+09:26:10:385,EVENT,운전화면 menu button clicked.
+09:26:34:643,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 2.rcp for Working
+09:26:34:643,MESSAGE,Transfer Start Hole Item datas...
+09:26:35:018,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:26:54:455,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:26:54:471,MESSAGE,Transfer Start Hole Item datas...
+09:26:55:032,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:26:57:622,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:26:57:622,MESSAGE,Transfer Start Hole Item datas...
+09:26:57:918,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:27:00:758,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:27:00:758,MESSAGE,Transfer Start Hole Item datas...
+09:27:01:085,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:27:11:225,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:27:11:225,MESSAGE,Transfer Start Hole Item datas...
+09:27:11:522,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:29:09:037,EVENT,레시피 menu button clicked.
+09:29:24:231,EVENT,운전화면 menu button clicked.
+09:29:40:268,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:29:40:268,MESSAGE,Transfer Start Hole Item datas...
+09:29:40:861,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:29:41:625,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:29:41:625,MESSAGE,Transfer Start Hole Item datas...
+09:29:42:078,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:31:38:313,MESSAGE,Transfer Start Hole Item datas...
+09:31:38:594,MESSAGE,Transfer End Hole Item datas...[Hole count : 29]
+09:36:41:047,MESSAGE,Transfer Start Hole Item datas...
+09:36:41:344,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+09:54:22:629,EVENT,레시피 menu button clicked.
+09:54:26:389,EVENT,Load file is RECIPE NAME
+09:54:30:242,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산 250 3.txt
+09:54:31:428,EVENT,운전화면 menu button clicked.
+09:54:39:072,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 3.rcp for Working
+09:54:39:087,MESSAGE,Transfer Start Hole Item datas...
+09:54:39:399,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+09:54:43:970,EVENT,Changed Apply All Marking is FALSE from TRUE
+09:54:43:970,MESSAGE,Transfer Start Hole Item datas...
+09:54:44:267,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:00:06:938,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:00:06:938,MESSAGE,Transfer Start Hole Item datas...
+10:00:07:234,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:00:08:201,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:00:08:201,MESSAGE,Transfer Start Hole Item datas...
+10:00:08:560,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:00:09:558,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:00:09:558,MESSAGE,Transfer Start Hole Item datas...
+10:00:10:011,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:00:12:117,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:00:12:117,MESSAGE,Transfer Start Hole Item datas...
+10:00:12:694,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:00:19:121,EVENT,수동조정 menu button clicked.
+10:00:21:524,EVENT,운전화면 menu button clicked.
+10:00:23:130,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:00:23:130,MESSAGE,Transfer Start Hole Item datas...
+10:00:23:411,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:00:27:389,EVENT,레시피 menu button clicked.
+10:00:36:188,EVENT,운전화면 menu button clicked.
+10:00:48:434,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:00:48:449,MESSAGE,Transfer Start Hole Item datas...
+10:00:48:746,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:11:428,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 3.rcp for Working
+10:01:11:428,MESSAGE,Transfer Start Hole Item datas...
+10:01:11:927,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:13:940,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:01:13:955,MESSAGE,Transfer Start Hole Item datas...
+10:01:14:486,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:15:687,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:01:15:702,MESSAGE,Transfer Start Hole Item datas...
+10:01:16:077,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:17:434,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:01:17:434,MESSAGE,Transfer Start Hole Item datas...
+10:01:17:730,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:31:349,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 4.rcp for Working
+10:01:31:365,MESSAGE,Transfer Start Hole Item datas...
+10:01:31:646,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:34:641,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:01:34:641,MESSAGE,Transfer Start Hole Item datas...
+10:01:34:937,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:44:032,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 3.rcp for Working
+10:01:44:048,MESSAGE,Transfer Start Hole Item datas...
+10:01:44:344,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:01:50:569,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:01:50:569,MESSAGE,Transfer Start Hole Item datas...
+10:01:50:865,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:02:13:126,EVENT, menu button clicked.
+10:03:12:407,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:03:12:407,MESSAGE,Transfer Start Hole Item datas...
+10:03:12:906,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:03:14:497,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:03:14:497,MESSAGE,Transfer Start Hole Item datas...
+10:03:14:949,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:03:21:018,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 3.rcp for Working
+10:03:21:034,MESSAGE,Transfer Start Hole Item datas...
+10:03:21:439,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:04:57:566,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:04:57:566,MESSAGE,Transfer Start Hole Item datas...
+10:04:57:910,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:04:59:548,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:04:59:548,MESSAGE,Transfer Start Hole Item datas...
+10:04:59:844,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:05:07:270,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 4.rcp for Working
+10:05:07:270,MESSAGE,Transfer Start Hole Item datas...
+10:05:07:613,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:05:12:215,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:05:12:215,MESSAGE,Transfer Start Hole Item datas...
+10:05:12:574,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:05:15:694,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:05:15:694,MESSAGE,Transfer Start Hole Item datas...
+10:05:15:975,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:05:17:675,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:05:17:675,MESSAGE,Transfer Start Hole Item datas...
+10:05:18:237,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:05:30:280,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 3.rcp for Working
+10:05:30:311,MESSAGE,Transfer Start Hole Item datas...
+10:05:30:607,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:05:36:426,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:05:36:426,MESSAGE,Transfer Start Hole Item datas...
+10:05:36:707,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:43:26:261,EVENT,레시피 menu button clicked.
+10:43:30:629,EVENT,Load file is RECIPE NAME
+10:43:46:713,EVENT,Open recipe is D:\NEWRUN\recipe\경산 200 1+2.rcp
+10:43:49:318,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 200 1+2.rcp
+10:43:51:736,EVENT,Open recipe is D:\NEWRUN\recipe\경산 200 3.rcp
+10:43:52:594,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 200 3.rcp
+10:43:54:217,EVENT,Open recipe is D:\NEWRUN\recipe\경산 200 4.rcp
+10:43:54:981,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 200 4.rcp
+10:43:56:603,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 1.rcp
+10:43:57:539,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 1.rcp
+10:43:59:099,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 2.rcp
+10:44:00:051,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 2.rcp
+10:44:01:502,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 3.rcp
+10:44:05:901,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 4.rcp
+10:44:06:650,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 4.rcp
+10:44:08:881,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 2.rcp
+10:44:09:676,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 300 2.rcp
+10:44:11:642,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 6.rcp
+10:44:12:562,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 300 6.rcp
+10:44:14:559,EVENT,Open recipe is D:\NEWRUN\recipe\경주루지 2차 500 5.rcp
+10:44:15:526,EVENT,Remove recipe is D:\NEWRUN\recipe\경주루지 2차 500 5.rcp
+10:44:29:800,EVENT,Load file is RECIPE NAME
+10:44:32:811,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산 250 5.txt
+10:44:33:685,EVENT,운전화면 menu button clicked.
+10:44:36:773,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 5.rcp for Working
+10:44:36:789,MESSAGE,Transfer Start Hole Item datas...
+10:44:37:085,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:44:39:332,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:44:39:332,MESSAGE,Transfer Start Hole Item datas...
+10:44:39:675,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:57:26:292,EVENT,레시피 menu button clicked.
+10:57:29:614,EVENT,Load file is RECIPE NAME
+10:57:32:360,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산 250 6.txt
+10:57:34:778,EVENT,운전화면 menu button clicked.
+10:57:38:116,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 6.rcp for Working
+10:57:38:116,MESSAGE,Transfer Start Hole Item datas...
+10:57:38:709,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+10:57:40:051,EVENT,Changed Apply All Marking is FALSE from TRUE
+10:57:40:051,MESSAGE,Transfer Start Hole Item datas...
+10:57:40:534,MESSAGE,Transfer End Hole Item datas...[Hole count : 18]
+11:09:03:691,EVENT,레시피 menu button clicked.
+11:09:07:279,EVENT,Load file is RECIPE NAME
+11:09:09:494,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산 250 7.txt
+11:09:10:695,EVENT,운전화면 menu button clicked.
+11:09:13:644,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 7.rcp for Working
+11:09:13:659,MESSAGE,Transfer Start Hole Item datas...
+11:09:14:065,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+11:09:16:077,EVENT,Changed Apply All Marking is FALSE from TRUE
+11:09:16:093,MESSAGE,Transfer Start Hole Item datas...
+11:09:16:420,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+11:20:03:432,EVENT,레시피 menu button clicked.
+11:20:09:609,EVENT,Load file is RECIPE NAME
+11:20:12:979,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산250 8.txt
+11:20:14:274,EVENT,운전화면 menu button clicked.
+11:20:18:595,EVENT,Open recipe is D:\NEWRUN\recipe\경산250 8.rcp for Working
+11:20:18:595,MESSAGE,Transfer Start Hole Item datas...
+11:20:18:891,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+11:20:20:841,EVENT,Changed Apply All Marking is FALSE from TRUE
+11:20:20:841,MESSAGE,Transfer Start Hole Item datas...
+11:20:21:216,MESSAGE,Transfer End Hole Item datas...[Hole count : 42]
+11:38:42:422,EVENT,레시피 menu button clicked.
+11:38:46:228,EVENT,Load file is RECIPE NAME
+11:38:48:599,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 250 125\경산 250 9.txt
+11:38:49:878,EVENT,운전화면 menu button clicked.
+11:38:53:326,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 9.rcp for Working
+11:38:53:326,MESSAGE,Transfer Start Hole Item datas...
+11:38:53:591,MESSAGE,Transfer End Hole Item datas...[Hole count : 58]
+11:38:55:838,EVENT,Changed Apply All Marking is FALSE from TRUE
+11:38:55:853,MESSAGE,Transfer Start Hole Item datas...
+11:38:56:134,MESSAGE,Transfer End Hole Item datas...[Hole count : 58]
+11:52:13:701,EVENT,레시피 menu button clicked.
+11:52:21:751,EVENT,Load file is RECIPE NAME
+11:52:24:403,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 300 150\경산 300 5.txt
+11:52:26:633,EVENT,운전화면 menu button clicked.
+11:52:31:875,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 5.rcp for Working
+11:52:31:891,MESSAGE,Transfer Start Hole Item datas...
+11:52:32:296,MESSAGE,Transfer End Hole Item datas...[Hole count : 30]
+11:52:34:418,EVENT,Changed Apply All Marking is FALSE from TRUE
+11:52:34:418,MESSAGE,Transfer Start Hole Item datas...
+11:52:34:714,MESSAGE,Transfer End Hole Item datas...[Hole count : 30]
+13:41:33:294,EVENT,레시피 menu button clicked.
+13:41:45:072,EVENT,Load file is RECIPE NAME
+13:41:50:985,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\기성역사\기성역사 5.txt
+13:41:54:931,EVENT,운전화면 menu button clicked.
+13:41:59:455,EVENT,Open recipe is D:\NEWRUN\recipe\기성역사 5.rcp for Working
+13:41:59:471,MESSAGE,Transfer Start Hole Item datas...
+13:41:59:752,MESSAGE,Transfer End Hole Item datas...[Hole count : 44]
+13:42:01:000,EVENT,Changed Apply All Marking is FALSE from TRUE
+13:42:01:015,MESSAGE,Transfer Start Hole Item datas...
+13:42:01:405,MESSAGE,Transfer End Hole Item datas...[Hole count : 44]
+13:57:54:520,EVENT,레시피 menu button clicked.
+13:58:05:050,EVENT,Load file is RECIPE NAME
+13:58:07:827,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 300 150\경산 300 4.txt
+13:58:08:919,EVENT,운전화면 menu button clicked.
+13:58:15:097,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 4.rcp for Working
+13:58:15:112,MESSAGE,Transfer Start Hole Item datas...
+13:58:15:565,MESSAGE,Transfer End Hole Item datas...[Hole count : 24]
+13:58:17:702,EVENT,Changed Apply All Marking is FALSE from TRUE
+13:58:17:702,MESSAGE,Transfer Start Hole Item datas...
+13:58:17:998,MESSAGE,Transfer End Hole Item datas...[Hole count : 24]
+13:58:21:992,EVENT,레시피 menu button clicked.
+13:58:26:984,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 3.rcp
+13:58:28:731,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 3.rcp
+13:58:30:556,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 5.rcp
+13:58:32:023,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 5.rcp
+13:58:33:598,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 6.rcp
+13:58:34:487,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 6.rcp
+13:58:36:001,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 7.rcp
+13:58:36:796,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 7.rcp
+13:58:38:949,EVENT,Open recipe is D:\NEWRUN\recipe\경산 250 9.rcp
+13:58:39:729,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 250 9.rcp
+13:58:41:632,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 5.rcp
+13:58:42:646,EVENT,Remove recipe is D:\NEWRUN\recipe\경산 300 5.rcp
+13:58:45:361,EVENT,Open recipe is D:\NEWRUN\recipe\경산250 8.rcp
+13:58:46:266,EVENT,Remove recipe is D:\NEWRUN\recipe\경산250 8.rcp
+13:58:48:918,EVENT,Open recipe is D:\NEWRUN\recipe\기성역사 5.rcp
+13:58:49:822,EVENT,Remove recipe is D:\NEWRUN\recipe\기성역사 5.rcp
+13:58:51:554,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 4.rcp
+13:58:58:917,EVENT,운전화면 menu button clicked.
+14:05:57:513,EVENT,레시피 menu button clicked.
+14:06:00:945,EVENT,Load file is RECIPE NAME
+14:06:02:957,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 300 150\경산 300 3.txt
+14:06:04:283,EVENT,운전화면 menu button clicked.
+14:06:07:434,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 3.rcp for Working
+14:06:07:450,MESSAGE,Transfer Start Hole Item datas...
+14:06:08:292,MESSAGE,Transfer End Hole Item datas...[Hole count : 30]
+14:06:10:617,EVENT,Changed Apply All Marking is FALSE from TRUE
+14:06:10:632,MESSAGE,Transfer Start Hole Item datas...
+14:06:11:178,MESSAGE,Transfer End Hole Item datas...[Hole count : 30]
+14:20:42:502,EVENT,레시피 menu button clicked.
+14:20:51:706,EVENT,Load file is RECIPE NAME
+14:20:55:123,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\기성역사\기성역사 1.txt
+14:20:56:105,EVENT,운전화면 menu button clicked.
+14:21:00:130,EVENT,Open recipe is D:\NEWRUN\recipe\기성역사 1.rcp for Working
+14:21:00:130,MESSAGE,Transfer Start Hole Item datas...
+14:21:00:645,MESSAGE,Transfer End Hole Item datas...[Hole count : 10]
+14:21:04:607,EVENT,Changed Apply All Marking is FALSE from TRUE
+14:21:04:623,MESSAGE,Transfer Start Hole Item datas...
+14:21:04:982,MESSAGE,Transfer End Hole Item datas...[Hole count : 10]
+14:28:24:715,ALARM,"Alarm Occured - CODE : AL0072, MSG : (MB1103)X 캐리지 서보경고(No.10)"
+14:30:14:508,EVENT, menu button clicked.
+14:30:15:600,EVENT, menu button clicked.
+14:30:21:201,EVENT,수동조정 menu button clicked.
+14:30:22:028,EVENT,운전화면 menu button clicked.
+14:30:23:104,EVENT,수동조정 menu button clicked.
+14:30:24:290,EVENT,운전화면 menu button clicked.
+14:31:44:786,EVENT, menu button clicked.
+14:31:47:157,EVENT, menu button clicked.
+14:31:48:670,MESSAGE,Newrun Application Exit program...[NEWRUN13]
+14:31:57:515,MESSAGE,"NEWRUN Series Application Start : Model = NEWRUN13, Language 한국어"
+14:31:58:264,EVENT,Load today's Log file button clicked.
+14:31:58:717,ALARM,"Alarm Occured - CODE : AL0072, MSG : (MB1103)X 캐리지 서보경고(No.10)"
+14:32:02:663,EVENT, menu button clicked.
+14:32:03:631,MESSAGE,Newrun Application Exit program...[NEWRUN13]
+14:34:36:735,MESSAGE,"NEWRUN Series Application Start : Model = NEWRUN13, Language 한국어"
+14:34:37:468,EVENT,Load today's Log file button clicked.
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0072, MSG : (MB1103)X 캐리지 서보경고(No.10)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0097, MSG : (MB1011)DL LX 서보레디 Off(No.01)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0101, MSG : (MB1021)DL LY 서보레디 Off(No.02)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0105, MSG : (MB1031)DL LZ 서보레디 Off(No.03)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0109, MSG : (MB1111)DL 인버터레디 Off"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0161, MSG : (MB1041)DV VX 서보레디Off(No.04)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0165, MSG : (MB1051)DV VY 서보레디Off(No.05)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0169, MSG : (MB1061)DV VZ 서보레디Off(No.06"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0173, MSG : (MB1121)DV InverterReadyOff"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0225, MSG : (MB1071)DR RX 서보레디Off(No.07)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0229, MSG : (MB1081)DR RY 서보레디Off(No.08)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0233, MSG : (MB1091)DR RZ 서보레디Off(No.09)"
+14:34:37:890,ALARM,"Alarm Occured - CODE : AL0237, MSG : (MB1131)DR InverterReadyOff"
+14:35:23:941,EVENT,수동조정 menu button clicked.
+14:35:25:048,EVENT,운전화면 menu button clicked.
+14:42:51:958,EVENT, menu button clicked.
+14:42:55:140,EVENT,수동조정 menu button clicked.
+14:42:56:279,EVENT, menu button clicked.
+14:43:00:398,EVENT,운전화면 menu button clicked.
+14:43:01:911,EVENT, menu button clicked.
+14:43:03:362,MESSAGE,Newrun Application Exit program...[NEWRUN13]
+14:54:30:477,MESSAGE,"NEWRUN Series Application Start : Model = NEWRUN13, Language 한국어"
+14:54:31:210,EVENT,Load today's Log file button clicked.
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0097, MSG : (MB1011)DL LX 서보레디 Off(No.01)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0101, MSG : (MB1021)DL LY 서보레디 Off(No.02)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0105, MSG : (MB1031)DL LZ 서보레디 Off(No.03)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0109, MSG : (MB1111)DL 인버터레디 Off"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0161, MSG : (MB1041)DV VX 서보레디Off(No.04)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0165, MSG : (MB1051)DV VY 서보레디Off(No.05)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0169, MSG : (MB1061)DV VZ 서보레디Off(No.06"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0173, MSG : (MB1121)DV InverterReadyOff"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0225, MSG : (MB1071)DR RX 서보레디Off(No.07)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0229, MSG : (MB1081)DR RY 서보레디Off(No.08)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0233, MSG : (MB1091)DR RZ 서보레디Off(No.09)"
+14:54:31:740,ALARM,"Alarm Occured - CODE : AL0237, MSG : (MB1131)DR InverterReadyOff"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0097, MSG : (MB1011)DL LX 서보레디 Off(No.01)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0101, MSG : (MB1021)DL LY 서보레디 Off(No.02)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0105, MSG : (MB1031)DL LZ 서보레디 Off(No.03)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0109, MSG : (MB1111)DL 인버터레디 Off"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0161, MSG : (MB1041)DV VX 서보레디Off(No.04)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0165, MSG : (MB1051)DV VY 서보레디Off(No.05)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0169, MSG : (MB1061)DV VZ 서보레디Off(No.06"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0173, MSG : (MB1121)DV InverterReadyOff"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0225, MSG : (MB1071)DR RX 서보레디Off(No.07)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0229, MSG : (MB1081)DR RY 서보레디Off(No.08)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0233, MSG : (MB1091)DR RZ 서보레디Off(No.09)"
+14:54:38:012,ALARM,"Alarm Cleared - CODE : AL0237, MSG : (MB1131)DR InverterReadyOff"
+14:54:52:036,EVENT,Open recipe is D:\NEWRUN\recipe\기성역사 1.rcp for Working
+14:54:52:052,MESSAGE,Transfer Start Hole Item datas...
+14:54:52:520,MESSAGE,Transfer End Hole Item datas...[Hole count : 10]
+14:54:54:844,EVENT,Changed Apply All Marking is FALSE from TRUE
+14:54:54:860,MESSAGE,Transfer Start Hole Item datas...
+14:54:55:203,MESSAGE,Transfer End Hole Item datas...[Hole count : 10]
+16:22:51:834,EVENT,레시피 menu button clicked.
+16:23:05:890,EVENT,Load file is RECIPE NAME
+16:23:07:777,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\경산공장\경산 300 150\경산 300 1.txt
+16:23:09:212,EVENT,운전화면 menu button clicked.
+16:23:13:456,EVENT,Open recipe is D:\NEWRUN\recipe\경산 300 1.rcp for Working
+16:23:13:456,MESSAGE,Transfer Start Hole Item datas...
+16:23:13:830,MESSAGE,Transfer End Hole Item datas...[Hole count : 38]
+16:42:57:981,EVENT,레시피 menu button clicked.
+16:43:06:015,EVENT,Load file is RECIPE NAME
+16:43:08:433,EVENT,Save recipe is C:\Users\NUVO-4022\Desktop\기성역사\기성역사 1.txt
+16:43:10:805,EVENT,운전화면 menu button clicked.
+16:43:14:876,EVENT,Open recipe is D:\NEWRUN\recipe\기성역사 1.rcp for Working
+16:43:14:907,MESSAGE,Transfer Start Hole Item datas...
+16:43:15:219,MESSAGE,Transfer End Hole Item datas...[Hole count : 10]
+17:53:20:363,EVENT, menu button clicked.
+17:53:22:843,EVENT, menu button clicked.
+17:53:23:826,MESSAGE,Newrun Application Exit program...[NEWRUN13]
